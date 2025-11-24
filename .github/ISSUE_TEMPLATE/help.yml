@@ -62,7 +62,7 @@ body:
     id: ble-module
     attributes:
       label: "Bluetooth Module"
-      description: "What ble module is your device using?"
+      description: "What ble module is the device you're connecting to using?"
       placeholder: "ex. Arduino HC-08, Espressif esp32-s2, TI CC2541, Nordic nRF52840, NXP QN908x"
     validations:
       required: true
